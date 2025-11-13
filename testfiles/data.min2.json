@@ -1,0 +1,30 @@
+{
+  "offers": {
+    "abc123": {
+      "items": [
+        {
+          "name": "Pålæg",
+          "dates": {
+            "1762992000": {
+              "available": true,
+              "menu": {
+                "name": "Leverpostej"
+              }
+            }
+          }
+        },
+        {
+          "name": "Pålæg    ",
+          "dates": {
+            "1762992000": {
+              "available": true,
+              "menu": {
+                "name": "Æg og rejer"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

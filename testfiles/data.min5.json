@@ -1,0 +1,19 @@
+{
+  "offers": {
+    "abc123": {
+      "items": [
+        {
+          "name": "Pålæg",
+          "dates": {
+            "1762992000": {
+              "available": false,
+              "menu": {
+                "name": "Leverpostej"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
