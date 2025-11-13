@@ -6,3 +6,5 @@
 [![Go Coverage](https://github.com/frederikhs/kokkeneskoekken/wiki/coverage.svg)](https://raw.githack.com/wiki/frederikhs/kokkeneskoekken/coverage.html)
 [![License](https://img.shields.io/github/license/frederikhs/kokkeneskoekken)](LICENSE)
 [![GoDoc](https://godoc.org/github.com/frederikhs/kokkeneskoekken?status.svg)](https://godoc.org/github.com/frederikhs/kokkeneskoekken)
+
+Use `github.com/frederikhs/kokkeneskoekken` to fetch the menu of your canteen!
